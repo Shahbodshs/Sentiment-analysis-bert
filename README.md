@@ -7,3 +7,8 @@ that necessary to use a large dataset.
 2.  The i used Cased version of bert model with classification head, since we have only two labels i put the num_labels value to 0.
 ## Dataset
 You can have access to the dataset here : [sentiment.140](https://www.kaggle.com/datasets/kazanova/sentiment140)
+## Code file
+You can have access to the code file in the code branch. 
+
+## Kaggle source: 
+[Kaggle](https://www.kaggle.com/code/shahbodsobhkhiz/sentiment-analysis-with-bert)
