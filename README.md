@@ -19,4 +19,5 @@ The competition is about movie review sentiment analysis.
 i have reached 94 percent accuracy, the problem with the code is, it has a high validation loss compared to the trainig loss, which should be made better. 
 In the next update, i will try to make a better model. 
 But this, is overall a lot better than the previous model. 
+
 The code file name is : __bert-movie-review-sentiment-analysis.ipynb__ 
