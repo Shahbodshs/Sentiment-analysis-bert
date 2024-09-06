@@ -12,3 +12,10 @@ You can have access to the code file in the code branch.
 
 ## Kaggle source: 
 [Kaggle](https://www.kaggle.com/code/shahbodsobhkhiz/sentiment-analysis-with-bert)
+
+# UPDATE:
+I have made a new code file, which i trained a new model using bert and a new dataset from a competition in kaggle: [Bag or words bag of popcorn](https://www.kaggle.com/competitions/word2vec-nlp-tutorial).
+The competition is about movie review sentiment analysis. 
+i have reached 94 percent accuracy, the problem with the code is, it has a high validation loss compared to the trainig loss, which should be made better. 
+In the next update, i will try to make a better model. 
+But this, is overall a lot better than the previous model. 
